@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="random_cards">
+        <item>@drawable/ic2_of_clubs</item>
+        <item>@drawable/ic3_of_clubs</item>
+        <item>@drawable/ic4_of_clubs</item>
+        <item>@drawable/ic5_of_clubs</item>
+        <item>@drawable/ic6_of_clubs</item>
+        <item>@drawable/ic7_of_clubs</item>
+        <item>@drawable/ic8_of_clubs</item>
+        <item>@drawable/ic9_of_clubs</item>
+        <item>@drawable/ic10_of_clubs</item>
+        <item>@drawable/icjack_of_clubs2</item>
+        <item>@drawable/icqueen_of_clubs2</item>
+        <item>@drawable/icking_of_clubs2</item>
+        <item>@drawable/icace_of_clubs</item>
+        <item>@drawable/icace_of_diamonds</item>
+        <item>@drawable/ic2_of_diamonds</item>
+        <item>@drawable/ic3_of_diamonds</item>
+        <item>@drawable/ic4_of_diamonds</item>
+        <item>@drawable/ic5_of_diamonds</item>
+        <item>@drawable/ic6_of_diamonds</item>
+        <item>@drawable/ic7_of_diamonds</item>
+        <item>@drawable/ic8_of_diamonds</item>
+        <item>@drawable/ic9_of_diamonds</item>
+        <item>@drawable/ic10_of_diamonds</item>
+        <item>@drawable/icjack_of_diamonds2</item>
+        <item>@drawable/icqueen_of_diamonds2</item>
+        <item>@drawable/icking_of_diamonds2</item>
+
+    </array>
+
+</resources>

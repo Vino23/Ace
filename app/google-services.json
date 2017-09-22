@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065048019528",
+    "firebase_url": "https://aced-87215.firebaseio.com",
+    "project_id": "aced-87215",
+    "storage_bucket": "aced-87215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065048019528:android:459bf96a76ef3b52",
+        "android_client_info": {
+          "package_name": "jp.ace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065048019528-uk0dtu32udma5b4grvbcac8s1uf90kc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKAGwtB3NfmMK37wqZRIr5X09OLduf-As"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
